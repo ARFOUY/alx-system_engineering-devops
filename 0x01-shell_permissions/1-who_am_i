@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 Who am I
+=======
+whoami
+>>>>>>> 95270acb1b3faaeab12f1eb57510cd990ba0acc4
